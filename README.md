@@ -1,4 +1,4 @@
-# Autocar
+![image](https://github.com/aozam3/Autocar/assets/65112280/4cd623de-29e5-495f-8dae-8dda2b648898)# Autocar
 Arduino IDEとセンサーを組み合わせた自動運転車ロボットのArduinoファイル。
 
 <img src="https://github.com/aozam3/Autocar/assets/65112280/260c5cf0-9750-49e1-ad4e-e98cb39c290b.png" width="500">
@@ -12,12 +12,21 @@ Arduino IDEとセンサーを組み合わせて自動運転車ロボットを開
 <img src="https://github.com/aozam3/Autocar/assets/65112280/5d0e5fc1-26b6-4c85-a95a-2da6b8bd7d6d.png" width="400">
 <img src="https://github.com/aozam3/Autocar/assets/65112280/a6a74501-d537-4d57-be9a-3329f3604e7b.png" width="400">
 
-使用した部品とその役割を以下に示す。
-
-| TH | TH | TH |
-| ---- | ---- |
-| TD | TD | TD |
-| TD | TD | TD |
+| 使用した部品 | 個数 | 役割 |
+| ---- | ---- |　 ---- |
+| Uno R3 | 1 | プログラムで要求された挙動を実現する |
+| ブレッドボード	 | 1 | ハンダ付け無しで素早く回路を制作する |
+| 超音波センサ | 1 | 障害物を検知する |
+| パッシブブザー | 1 | 音楽・警告音を鳴らす |
+| 電源モジュール | 1 | モータに供給する電源を制御する |
+| 電池 | 2 | Arduino Unoとモーターに電源を供給する |
+| リード線 | 適当 | それぞれの部品をつなぐ |
+| L293D | 1 | モータを制御する |
+| モータ | 1 | タイヤを動かす |
+| ギヤーボックス | 2 | モータの回転を遅くする |
+| ボールキャスター | 2 | ロボットの動きを柔軟にする |
+| ユニバーサルプレート | 2 | ロボットの基盤になる |
+| タイヤ | 2 | ロボットを走らす |
 
 ### 制作物の回路図
 <img src="https://github.com/aozam3/Autocar/assets/65112280/7f5e73d3-7fc6-48ff-8960-01c69f6337d1.png" width="500">
