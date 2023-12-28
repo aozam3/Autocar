@@ -14,10 +14,10 @@ Arduino IDEとセンサーを組み合わせて自動運転車ロボットを開
 
 使用した部品とその役割を以下に示す。
 
-| TH | TH |
+| TH | TH | TH |
 | ---- | ---- |
-| TD | TD |
-| TD | TD |
+| TD | TD | TD |
+| TD | TD | TD |
 
 ### 制作物の回路図
 <img src="https://github.com/aozam3/Autocar/assets/65112280/7f5e73d3-7fc6-48ff-8960-01c69f6337d1.png" width="500">
