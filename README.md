@@ -12,6 +12,8 @@ Arduino IDEとセンサーを組み合わせて自動運転車ロボットを開
 <img src="https://github.com/aozam3/Autocar/assets/65112280/5d0e5fc1-26b6-4c85-a95a-2da6b8bd7d6d.png" width="400">
 <img src="https://github.com/aozam3/Autocar/assets/65112280/a6a74501-d537-4d57-be9a-3329f3604e7b.png" width="400">
 
+以下に示す。
+
 | 使用した部品 | 個数 | 役割 |
 | ---- | ---- |　 ---- |
 | Uno R3 | 1 | プログラムで要求された挙動を実現する |
