@@ -1,4 +1,4 @@
-![image](https://github.com/aozam3/Autocar/assets/65112280/4cd623de-29e5-495f-8dae-8dda2b648898)# Autocar
+# Autocar
 Arduino IDEとセンサーを組み合わせた自動運転車ロボットのArduinoファイル。
 
 <img src="https://github.com/aozam3/Autocar/assets/65112280/260c5cf0-9750-49e1-ad4e-e98cb39c290b.png" width="500">
