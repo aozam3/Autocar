@@ -9,8 +9,8 @@ Arduino IDEとセンサーを組み合わせて自動運転車ロボットを開
 また、このミニカーは、通常はブザーで音楽を流しながら走るが、障害物を検知すると警告音が鳴り、後退する。<br/>
 
 ### 構造
-<img src="https://github.com/aozam3/Autocar/assets/65112280/5d0e5fc1-26b6-4c85-a95a-2da6b8bd7d6d.png" width="300">
-<img src="https://github.com/aozam3/Autocar/assets/65112280/a6a74501-d537-4d57-be9a-3329f3604e7b.png" width="300">
+<img src="https://github.com/aozam3/Autocar/assets/65112280/5d0e5fc1-26b6-4c85-a95a-2da6b8bd7d6d.png" width="400">
+<img src="https://github.com/aozam3/Autocar/assets/65112280/a6a74501-d537-4d57-be9a-3329f3604e7b.png" width="400">
 
 使用した部品とその役割を以下に示す。
 
